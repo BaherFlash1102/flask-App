@@ -16,11 +16,17 @@ This is a simple web application built with **Flask** and **Redis**, fully conta
 ## Project Structure
 
 flask-App/
+
 ├── app/
+
 │ ├── app.py # Flask app with Redis counter
+
 │ └── requirements.txt # Python dependencies
+
 ├── docker-compose.yml # Orchestration file
+
 ├── Dockerfile # Image definition for Flask app
+
 └── README.md # This file
 
 ---
